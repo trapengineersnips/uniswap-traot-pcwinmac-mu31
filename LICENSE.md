@@ -1,4 +1,4 @@
-# 
+# Open Source uniswap trading bot préréglages pour Mac OS | Automatique uniswap trading bot préréglages pour PC Windows. Avec analyse du carnet d'ordres et protection contre le front-running — optimisé pour des performances maximales sur chaque plateforme.
 
 
 
